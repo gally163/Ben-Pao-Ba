@@ -1,5 +1,8 @@
 添加 PROXY_IP，可以用下面这个网址中搜到的地址添加，用小写逗号分隔
 https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
+
+来自大佬分享的PROXYIP：proxy.xxxxxxxx.tk、edgetunnel.anycast.eu.org、ts.hpc.tw、cdn.xn--b6gac.eu.org、cdn-all.xn--b6gac.eu.org、bestproxy.onecf.eu.org、proxyip.cmliussss.net。
+试问面板：/panel，部署成功后，在 url 后面增加/panel来进行访问面板，访问面板修改的密码将会保存在kv对里。
 ```
 
 | IP | Location | Status | AvgResponseTime |
@@ -29,6 +32,3 @@ https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 | 193.123.81.105 | 阿联酋/迪拜/迪拜/oracle.com | Failed | N/A |
 
 
-
-来自大佬分享的PROXYIP：proxy.xxxxxxxx.tk、edgetunnel.anycast.eu.org、ts.hpc.tw、cdn.xn--b6gac.eu.org、cdn-all.xn--b6gac.eu.org、bestproxy.onecf.eu.org、proxyip.cmliussss.net。
-试问面板：/panel，部署成功后，在 url 后面增加/panel来进行访问面板，访问面板修改的密码将会保存在kv对里。
