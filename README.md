@@ -1,3 +1,5 @@
+https://github.com/bia-pain-bache/BPB-Worker-Panel/releases
+
 添加 PROXY_IP，可以用下面这个网址中搜到的地址添加，用小写逗号分隔
 https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 
